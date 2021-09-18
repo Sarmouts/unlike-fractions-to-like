@@ -43,10 +43,10 @@ string likeFraction(double x, double y, double a, double b)
 }
 int main()
 {
+	cout << "Welcome to unlike Fractions to like calculator" << endl;
+	cout << "----------------------------------------------" << endl;
 	while (true)
 	{
-		cout << "Welcome to unlike Fractions to like calculator" << endl;
-		cout << "---------------------------------------" << endl;
 		double x, y, a, b;
 		cout << "x/y  a/b" << endl;
 		cout << "--------" << endl;
